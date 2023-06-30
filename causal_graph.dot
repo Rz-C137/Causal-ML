@@ -1,0 +1,6 @@
+digraph {
+  treatment -> milk_outcome ;
+  farm_id-> treatment ;
+  farm_id-> milk_outcome ;
+
+}
